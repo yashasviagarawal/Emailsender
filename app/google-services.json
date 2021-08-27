@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518122233987",
+    "firebase_url": "https://emailsender-f7898.firebaseio.com",
+    "project_id": "emailsender-f7898",
+    "storage_bucket": "emailsender-f7898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518122233987:android:20c1172b399ab73f737bb6",
+        "android_client_info": {
+          "package_name": "com.example.emailsender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518122233987-hku3lpd5j7vgi09ifbek7fnaluil80u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOx0mAsux0xlQFHdl5m4SaUskTRK-lC1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518122233987-hku3lpd5j7vgi09ifbek7fnaluil80u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
